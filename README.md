@@ -8,5 +8,5 @@
 
 # Credits||||=======-------
 KassuK & OLEPOSSU: Blackout Addon/Client (client coming soon prob)
-pan4ur & 06ED: ThunderHack-Recode
-cvs0: Addon Template
+<br>pan4ur & 06ED: ThunderHack-Recode
+<br>cvs0: Addon Template
